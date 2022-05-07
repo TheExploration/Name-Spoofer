@@ -1,5 +1,5 @@
 ## name-spoofer
-Minecraft forge 1.8.9 namespoofer mod (give yourself a fake name on your screen or change players' name)
+Minecraft forge 1.8.9 namespoofer mod (give yourself a fake name or change players' name)
 
 ## How to use?
 Type `/fakename <fakename>` or `/fakename <target> <fakename>`
