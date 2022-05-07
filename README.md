@@ -2,7 +2,7 @@
 Minecraft forge 1.8.9 namespoofer mod (give yourself a fake name or change players' name)
 
 ## How to use?
-Type `/fakename <fakename>` or `/fakename <target> <fakename>`
+Type `/namespoof <fakename>` or `/namespoof <target> <fakename>`
 
 ## Picture
 unfinshed
