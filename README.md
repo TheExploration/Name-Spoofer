@@ -6,7 +6,7 @@ Works on: nametags, chest, furnace, inventory, item name, other mods, tablist, c
 
 A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavily Modified)
 
-### - [Download](https://github.com/disagreeing/Name-Spoofer/releases/download/1.1/name-spoofer-1.1.jar) -
+### - [Download](https://github.com/disagreeing/Name-Spoofer/releases/latest/download/name-spoofer-1.1.jar) -
 
 ## Features
 Saves color of 
