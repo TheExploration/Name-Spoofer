@@ -1,5 +1,7 @@
 # Name-Spoofer
 
+Minecraft Forge 1.8.9 Name Spoofer Mod
+
 Change ANY string displayed on your screen visually. It does not actually change any strings
 
 Works on: nametags, chest, furnace, inventory, item name, other mods, tablist, chat, any text etc.
