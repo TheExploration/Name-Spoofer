@@ -1,12 +1,15 @@
 ## Name-Spoofer
-Minecraft forge 1.8.9 Name Spoofer mod (Changes the any string displayed on your screen visually)
+Minecraft forge 1.8.9 Name Spoofer mod (Changes the any string displayed on your screen visually. It does not atcually change any strings)
+
 
 ## Commands
-`/spoof <name>` Changes any instace where your username appears on the screen to `<name>`. Basically Nickhider.
+1. Type `/spoof <name>` to change any instance where your username appears on the screen to `<name>`. Basically Nickhider.
 
-`/spoof <target> <name>` Changes any instace of `<target>` to `<name>`. 
+2. `/spoof <target> <name>` Changes any instance of `<target>` to `<name>`. 
+NOTE: THIS AFFECTS TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (ex: after `/spoof a wow`, "I eat apples everyday" = "I ewowt wowpples everydwowy")
 
-NOTE: THIS AFFECTS TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT
+3. 
+
 
 ## How to use?
 
