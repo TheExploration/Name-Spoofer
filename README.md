@@ -25,6 +25,7 @@ NOTE: THIS AFFECTS TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TY
 
 ## Picture
 ![alt text](https://github.com/TheExploration/Name-Spoofer/blob/main/tablist%20spoof.png)
+![owner](https://github.com/TheExploration/Name-Spoofer/blob/main/owner.png)
 
 ## Notes
 - This could potentially conflict with NickHider mod
