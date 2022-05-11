@@ -1,8 +1,9 @@
 # Name-Spoofer
-```
-   Change ANY string displayed on your screen visually. It does not actually change any strings
-   Works on: nametags, chest, furnace, inventory, item name, other mods, tablist, chat, any text etc.
-```
+
+Change ANY string displayed on your screen visually. It does not actually change any strings
+
+Works on: nametags, chest, furnace, inventory, item name, other mods, tablist, chat, any text etc.
+
 Revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavily Modified)
 
 ### - [Download](https://link-url-here.org) -
