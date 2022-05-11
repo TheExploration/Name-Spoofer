@@ -4,7 +4,7 @@ Change ANY string displayed on your screen visually. It does not atcually change
 
 Works on: nametags, chest, furnace, inventory, item name, other mods, tablist, chat, any text etc.
 
-(Download)[https://link-url-here.org]
+## - [Download](https://link-url-here.org) -
 
 ## Features
 Saves color of 
