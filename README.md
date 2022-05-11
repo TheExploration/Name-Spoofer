@@ -1,7 +1,7 @@
 # Name-Spoofer
 ## Minecraft Forge 1.8.9 Name Spoofer Mod 
 
-(Changes the any string displayed on your screen visually. It does not atcually change any strings)
+Changes the any string displayed on your screen visually. It does not atcually change any strings
 
 
 ## Commands
