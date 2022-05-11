@@ -8,9 +8,6 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 
 ### - [Download](https://github.com/TheExploration/Name-Spoofer/releases/download/1.1/name-spoofer-1.1.jar) -
 
-## Features
-Works with replay mod
-Saves color of text and works with color codes (ex: &c[OWNER])
 
 ## Commands
 1. Type `/spoof <name>` to change any instance where your username appears on the screen to `<name>`. Basically Nickhider.
@@ -29,6 +26,11 @@ NOTE: THIS AFFECTS TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TY
 
 ![owner](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/owner.png)
 ![tablist](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/tablistspoof.png)
+
+## Features
+Works with replay mod
+
+Saves color of text and works with color codes (ex: &c[OWNER])
 
 ## Notes
 - This could potentially conflict with NickHider mod
