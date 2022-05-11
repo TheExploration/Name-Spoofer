@@ -1,7 +1,6 @@
 # Name-Spoofer
 
-
-Changes the any string displayed on your screen visually. It does not atcually change any strings
+Change ANY string displayed on your screen visually. It does not atcually change any strings
 
 
 ## Commands
