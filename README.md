@@ -24,7 +24,7 @@ NOTE: THIS AFFECTS TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TY
 
 
 ## Picture
-![alt text]("tablist spoof.png")
+![alt text](./"tablist spoof.png")
 
 ## Notes
 - This could potentially conflict with NickHider mod
