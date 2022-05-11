@@ -25,9 +25,10 @@ NOTE: THIS AFFECTS TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TY
 
 
 ## Picture
-![tablist](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwars.png)
+![bedwars](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwars.png)
 
 ![owner](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/owner.png)
+![tablist]https://github.com/TheExploration/Name-Spoofer/blob/main/demo/tablistspoof.png
 
 ## Notes
 - This could potentially conflict with NickHider mod
