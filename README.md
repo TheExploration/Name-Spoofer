@@ -9,7 +9,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 ### - [Download](https://github.com/TheExploration/Name-Spoofer/releases/download/1.1/name-spoofer-1.1.jar) -
 
 ## Features
-Saves color of 
+Saves color of text and works with color codes (ex: &c[OWNER])
 
 ## Commands
 1. Type `/spoof <name>` to change any instance where your username appears on the screen to `<name>`. Basically Nickhider.
