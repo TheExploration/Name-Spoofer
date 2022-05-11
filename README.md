@@ -9,6 +9,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 ### - [Download](https://github.com/TheExploration/Name-Spoofer/releases/download/1.1/name-spoofer-1.1.jar) -
 
 ## Features
+Works with replay mod
 Saves color of text and works with color codes (ex: &c[OWNER])
 
 ## Commands
@@ -31,3 +32,4 @@ NOTE: THIS AFFECTS TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TY
 ## Notes
 - This could potentially conflict with NickHider mod
 - Changes text visually so it can change text that is displayed on the screen, such as item names as well
+- Add tab completion
