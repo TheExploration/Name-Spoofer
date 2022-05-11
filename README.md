@@ -4,7 +4,7 @@ Change ANY string displayed on your screen visually. It does not atcually change
 
 Works on: nametags, chest, furnace, inventory, item name, other mods, tablist, chat, any text etc.
 
-Original by [ayleafs](https://github.com/ayleafs/fake-names)
+Revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavily Modified)
 
 ### - [Download](https://link-url-here.org) -
 
