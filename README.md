@@ -35,7 +35,8 @@ NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT A
 4. `/spoof MVP &fYOUTUBE`
 5. `/spoof VIP &fYOUTUBE`
 6. `/spoof <playername> &c<Youtuber>`
-NOTE: Remove the + separately from MVP and VIP because the color is different from the rank.
+
+ NOTE: Remove the + separately from MVP and VIP because the color is different from the rank.
   
 ## Picture
 ![bedwars](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwar.png)
