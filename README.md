@@ -6,7 +6,7 @@ Change **ANY** text displayed on your screen visually.
 
 
 
-Works on: nametags, chest, furnace, inventory, any Minecraft item, other mods, gui, tablist, chat, nicknider name, any text etc.
+Does not only work on names. Works on: nametags, chest, furnace, inventory, any Minecraft item, other mods, gui, tablist, chat, nicknider name, any text etc.
 
 
 A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavily Modified)
