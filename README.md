@@ -1,6 +1,6 @@
 # Name-Spoofer
 
-Change ANY string displayed on your screen visually. It does not actually change any strings and is client side
+Change ANY string displayed on your screen visually. It does not actually change any strings and is client side.
 
 Works on: nametags, chest, furnace, inventory, item name, other mods, tablist, chat, any text etc.
 
