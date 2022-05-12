@@ -14,7 +14,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 
 2. Type `/spoof <target> <name>` to change any instance of `<target>` to `<name>`. (Use this if `<name>` has spaces)
 
-3. `/remove <target>` Hides the string `<target>`.
+3. Type `/remove <target>` to hide the string `<target>`.
 
 NOTE: THESE APPLY TO **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (ex: after `/spoof a wow`, "I eat apples everyday" = "I ewowt wowpples everydwowy")
 
@@ -22,15 +22,14 @@ NOTE: THESE APPLY TO **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT A
 
 
 ## Picture
-![bedwarsa](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwar.png)
+![bedwars](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwar.png)
 
 ![owner](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bridgeowner.png)
 ![tablist](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/tablistspoof.png)
 
 ## Features
-Works with replay mod
-
-Saves color of text and works with color codes (ex: &c[OWNER])
+- Works with replay mod
+- Saves color of text and works with color codes (ex: &c[OWNER])
 
 ## Notes
 - This could potentially conflict with NickHider mod
