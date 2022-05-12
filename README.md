@@ -12,7 +12,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 ## Commands
 1. Type `/spoof <name>` to change any instance where your username appears on the screen to `<name>`. Basically Nickhider.
 
-2. `/spoof <target> <name>` Changes any instance of `<target>` to `<name>`. 
+2. `/spoof <target> <name>` Changes any instance of `<target>` to `<name>`. (Use this if `<name>` has spaces)
 
 NOTE: THIS APPLIES **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (ex: after `/spoof a wow`, "I eat apples everyday" = "I ewowt wowpples everydwowy")
 
