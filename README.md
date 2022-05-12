@@ -16,7 +16,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 
 NOTE: THIS APPLIES **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (ex: after `/spoof a wow`, "I eat apples everyday" = "I ewowt wowpples everydwowy")
 
-3. `/remove <target>` Hides the string target.
+3. `/remove <target>` Hides the string `<target>`.
 
 
 ## Usage
