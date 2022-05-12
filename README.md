@@ -23,7 +23,7 @@ NOTE: THIS APPLIES **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND
 
 
 ## Picture
-![bedwars](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwars.png)
+![bedwarsa](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwars.png)
 
 ![owner](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/owner.png)
 ![tablist](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/tablistspoof.png)
