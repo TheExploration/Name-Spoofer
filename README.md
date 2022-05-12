@@ -20,6 +20,13 @@ NOTE: THESE APPLY TO **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT A
 
 ## Usage
 Example: Change your minecraft ign to Dream - `/spoof <name> &c[&fYOUTUBE&c] Dream`
+Example: Give Youtube rank to everyone on hypixel
+1. `/spoof [ &c[`
+2. `/spoof ] &c]`
+3. `/remove +`
+4. `/spoof MVP &fYOUTUBE`
+5. `/spoof VIP &fYOUTUBE`
+6. `/spoof <playername> &c<Youtuber>`
 
 ## Picture
 ![bedwars](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwar.png)
