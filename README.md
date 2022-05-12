@@ -23,9 +23,9 @@ NOTE: THIS APPLIES **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND
 
 
 ## Picture
-![bedwarsa](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwars.png)
+![bedwarsa](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwar.png)
 
-![owner](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/owner.png)
+![owner](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bridgeowner.png)
 ![tablist](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/tablistspoof.png)
 
 ## Features
