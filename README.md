@@ -21,7 +21,9 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 
 NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (If you tab up chat it might look strange because of this mod)
 
-## Usage
+## Examples
+ Paired with boomboompower's skinchanger you can fake just about anyone.
+  
 **Example: Change your minecraft ign to Dream** 
 
 `/spoof <name> &c[&fYOUTUBE&c] Dream`
@@ -33,7 +35,8 @@ NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT A
 4. `/spoof MVP &fYOUTUBE`
 5. `/spoof VIP &fYOUTUBE`
 6. `/spoof <playername> &c<Youtuber>`
-
+NOTE: Remove the + separately from MVP and VIP because the color is different from the rank.
+  
 ## Picture
 ![bedwars](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwar.png)
 
@@ -41,11 +44,11 @@ NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT A
 ![tablist](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/tablistspoof.png)
 
 ## Features
-- Works with replay mod
+- Works with replay mod and NickHider mod
 - Saves color of text and works with color codes (ex: &c[OWNER])
+- Changes text visually; It can change the text that is displayed on the screen, such as item names as well and text in vanilla Minecraft
 
 ## Notes
-- This could potentially conflict with NickHider mod (but this can replace nickhider)
-- Changes text visually so it can change text that is displayed on the screen, such as item names as well
 - Add tab completion
 - May affect fps if there is a lot of text displayed (such as when you press tab in bedwars lobby one)
+- Cannot remove color codes as they are invisible and not shown on the screen (if it could it would be disallowed as it would be able to remove duels nametag obfuscation since im pretty sure it uses &k as the color code)
