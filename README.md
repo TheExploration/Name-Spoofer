@@ -19,7 +19,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 NOTE: THESE APPLY TO **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (ex: after `/spoof a wow`, "I eat apples everyday" = "I ewowt wowpples everydwowy")
 
 ## Usage
-
+Example: Change your minecraft ign to Dream - `/spoof <name> &c[&fYOUTUBE&c] Dream`
 
 ## Picture
 ![bedwars](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwar.png)
