@@ -42,7 +42,7 @@ NOTE: THESE APPLY TO **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT A
 - Saves color of text and works with color codes (ex: &c[OWNER])
 
 ## Notes
-- This could potentially conflict with NickHider mod
+- This could potentially conflict with NickHider mod (but this can replace nickhider)
 - Changes text visually so it can change text that is displayed on the screen, such as item names as well
 - Add tab completion
 - May affect fps if there is a lot of text displayed (such as when you press tab in bedwars lobby one)
