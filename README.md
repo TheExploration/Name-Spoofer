@@ -16,7 +16,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 
 3. Type `/remove <target>` to hide the string `<target>`.
 
-NOTE: THESE APPLY TO **ANY** TIME TARGET APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (ex: after `/spoof a wow`, "I eat apples everyday" = "I ewowt wowpples everydwowy")
+NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (If you tab up chat it might look strange because of this mod)
 
 ## Usage
 **Example: Change your minecraft ign to Dream** 
