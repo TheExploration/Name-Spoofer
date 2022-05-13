@@ -16,9 +16,10 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 
 ## Commands
 
-`/spoof <name>` to change any instance where your username appears on the screen to <name>. Basically Nickhider but you decide your name.
-2. Type `/spoof <target> <name>` to change any instance of `<target>` to `<name>`. (<name> can have spaces)
-3. Type `/remove <target>` to hide the string `<target>`.
+- `/spoof` - Resets everything back to normal
+- `/spoof <name>` - Changes any instance of your username to <name>. Basically Nickhider but you decide your name.
+- `/spoof <target> <name>` - Changes any instance of `<target>` to `<name>`. (<name> can have spaces)
+- `/remove <target>` - Hides the string `<target>`.
 
 NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (If you tab up chat it might look strange because of this mod)
 
