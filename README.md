@@ -15,7 +15,8 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 
 
 ## Commands
-1. Type `/spoof <name>` to change any instance where your username appears on the screen to <name>. Basically Nickhider but you decide your name.
+
+`/spoof <name>` to change any instance where your username appears on the screen to <name>. Basically Nickhider but you decide your name.
 2. Type `/spoof <target> <name>` to change any instance of `<target>` to `<name>`. (<name> can have spaces)
 3. Type `/remove <target>` to hide the string `<target>`.
 
