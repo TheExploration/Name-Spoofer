@@ -27,9 +27,14 @@ archivesBaseName = modid
 sourceCompatibility = targetCompatibility = 1.8 // use java8
 compileJava.options.encoding = "UTF-8"
 
+configurations {
+    externalLibs
+
+}
 
 dependencies {
     compileOnly 'org.projectlombok:lombok:1.18.12'
+    externalLibs files('libs/jackson-core-2.13.2.jar', 'libs/jackson-annotations-2.13.2.jar', 'libs/jackson-databind-2.13.2.2.jar')
     annotationProcessor 'org.projectlombok:lombok:1.18.12'
 }
 
