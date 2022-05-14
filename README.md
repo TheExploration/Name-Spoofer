@@ -47,6 +47,7 @@ NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT A
 ![tablist](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/tablistspoof.png)
 
 ## Features
+- Saves the names you spoof!!
 - Works with replay mod and NickHider mod
 - Saves color of text and works with color codes (ex: &c[OWNER])
 - Changes text visually; It can change the text that is displayed on the screen, such as item names as well and text in vanilla Minecraft
