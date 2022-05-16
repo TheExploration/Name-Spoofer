@@ -11,7 +11,7 @@ Does not only work on names. Works on: nametags, chest, furnace, inventory, any 
 
 A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavily Modified)
 
-### - [Download](https://github.com/TheExploration/Name-Spoofer/releases/download/1.1/name-spoofer-1.1.jar) -
+### - [Download](https://github.com/TheExploration/Name-Spoofer/releases/download/1.2/name-spoofer-1.2.jar) -
 
 
 ## Commands
