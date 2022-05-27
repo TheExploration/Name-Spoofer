@@ -30,27 +30,34 @@ public class NameHandler implements ICommand {
 	public static String target = "null";
 	public static Path filePath = null;
 	public static void ReadConfig(File file)  {
-	if (!file.exists()) {
+		filePath = file.toPath();
+		if (!file.exists()) {
 		// can't read what doesn't exist
-		targets = new Hashtable<String, String>();
-		return;
-	}
+			targets = new Hashtable<String, String>();
+			try {
+				file.createNewFile();
+			}
+			catch (IOException e) {
+				ChatUtils.printChat(e.getMessage());
+			}
+			return;
+		}
 	
-	StringBuilder contentBuilder = new StringBuilder();
-	filePath = file.toPath();
-	try (Stream<String> stream = Files.lines(filePath, StandardCharsets.UTF_8))
-	{
+		StringBuilder contentBuilder = new StringBuilder();
+	
+		try (Stream<String> stream = Files.lines(filePath, StandardCharsets.UTF_8))
+	  	{
 		//Read the content with Stream
-		stream.forEach(s -> contentBuilder.append(s).append("\n"));
-	} catch (IOException e) {
+			stream.forEach(s -> contentBuilder.append(s).append("\n"));
+		} catch (IOException e) {
 		
-	}
+		}
 	
-	try {
-		targets = new ObjectMapper().readValue(contentBuilder.toString(), Hashtable.class);
-	} catch (JsonProcessingException ex) {
+		try {
+			targets = new ObjectMapper().readValue(contentBuilder.toString(), Hashtable.class);
+		} catch (JsonProcessingException ex) {
 
-	} 
+		} 
 } 
     
 	@Override
@@ -104,7 +111,7 @@ public class NameHandler implements ICommand {
 		} catch (JsonProcessingException e) {
 		
 		} catch (IOException e) {
-			
+			ChatUtils.printChat(e.getMessage());
 		
 		} 
     
