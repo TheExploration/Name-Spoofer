@@ -45,8 +45,8 @@ NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT A
 
 <details>
   <summary>Color Codes</summary>
-  
-  
+  ![color codes](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/colorcodes.PNG)
+  ![color codes](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/othercolor%20codes.PNG)
 </details>
 
 
