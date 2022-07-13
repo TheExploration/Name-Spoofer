@@ -41,8 +41,16 @@ NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT A
 6. `/spoof <playername> &c<Youtuber>`
 
  NOTE: Remove the + separately from MVP and VIP because the color is different from the rank.
+
+
+<details>
+  <summary>Color Codes</summary>
   
-## Picture
+  
+</details>
+
+
+## Images
 ![bedwars](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwar.png)
 
 ![owner](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bridgeowner.png)
