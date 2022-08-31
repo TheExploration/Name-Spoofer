@@ -20,7 +20,7 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 
 String modid = "name-spoofer"
 
-version = "1.1"
+version = "1.4"
 group = "me.leafs"
 archivesBaseName = modid
 
