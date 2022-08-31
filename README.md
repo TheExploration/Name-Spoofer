@@ -23,7 +23,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 - `/spoof <target> <name>` - Changes any instance of `<target>` to `<name>`. (<name> can have spaces)
 - `/remove <target>` - Hides the string `<target>`.
 - `/spooffirst <string>` - Used with `/spoofsecond`. (`<string>` can have spaces)
-- `/spoofsecond <string2>` - Changes whatever that is set as spooffirst to `<string>`. (`<string>` can have spaces)
+- `/spoofsecond <string2>` - Changes whatever string that is set as spooffirst to `<string2>`. (`<string2>` can have spaces)
 
 NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (If you tab up chat it might look strange because of this mod)
 
