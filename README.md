@@ -64,11 +64,10 @@ NOTE: THESE APPLY TO ANY (LITERALLY ANY) TEXT THAT APPEARS ON YOUR SCREEN (IT MA
 - Saves the names you spoof!!
 - Works with replay mod and NickHider mod
 - Saves color of text and works with color codes (ex: &c[OWNER])
- -Added the ability to spoof text with spaces so you can spoof entire name with a rank.
+-Added the ability to spoof text with spaces so you can spoof entire name with a rank.
 - Changes text visually; It can change the text that is displayed on the screen, such as item names as well and text in vanilla Minecraft
 
 ## Notes
-- Add tab completion
 - May affect fps if there is a lot of text displayed (such as when you press tab in bedwars lobby one)
 - Cannot remove color codes as they are invisible and not shown on the screen (if it could it would be disallowed as it would be able to remove duels nametag obfuscation since im pretty sure it uses &k as the color code)
 - The release jar is very large because the entirety of Jackson is in there
