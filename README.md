@@ -22,6 +22,8 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 - `/spoof <name>` - Changes any instance of your username to <name>. Basically Nickhider but you decide your name.
 - `/spoof <target> <name>` - Changes any instance of `<target>` to `<name>`. (<name> can have spaces)
 - `/remove <target>` - Hides the string `<target>`.
+- `/spooffirst <string>` - Used with `/spoofsecond`. (`<string>` can have spaces)
+- `/spoofsecond <string>` - Changes whatever that is set as spooffirst to `<string>`. (`<string>` can have spaces)
 
 NOTE: THESE APPLY TO **ANY** TARGET THAT APPEARS ON YOUR SCREEN INCLUDING CHAT AND YOUR TYPING CHAT (If you tab up chat it might look strange because of this mod)
 
