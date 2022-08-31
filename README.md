@@ -22,7 +22,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 - `/spoof <name>` - Changes any instance of your username to <name>. Basically Nickhider but you decide your name.
 - `/spoof <target> <name>` - Changes any instance of `<target>` to `<name>`. (<name> can have spaces)
 - `/remove <target>` - Hides the string `<target>`.
-- `/spooffirst <string>` - Used with `/spoofsecond`. (`<string>` can have spaces)
+- `/spooffirst <string>` - Used with `/spoofsecond`. (`<string>` can have spaces. Can spoof text with spaces as long as it's the same color.)
 - `/spoofsecond <string2>` - Changes whatever string that is set as spooffirst to `<string2>`. (`<string2>` can have spaces)
 
 NOTE: THESE APPLY TO ANY (LITERALLY ANY) TEXT THAT APPEARS ON YOUR SCREEN (IT MAY MAKE YOUR CHAT HISTORY CONFUSING TO READ)
@@ -64,6 +64,7 @@ NOTE: THESE APPLY TO ANY (LITERALLY ANY) TEXT THAT APPEARS ON YOUR SCREEN (IT MA
 - Saves the names you spoof!!
 - Works with replay mod and NickHider mod
 - Saves color of text and works with color codes (ex: &c[OWNER])
+ -Added the ability to spoof text with spaces so you can spoof entire name with a rank.
 - Changes text visually; It can change the text that is displayed on the screen, such as item names as well and text in vanilla Minecraft
 
 ## Notes
