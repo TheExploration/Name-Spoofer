@@ -25,7 +25,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 - `/spooffirst <string>` - Used with `/spoofsecond`. (`<string>` can have spaces. Can spoof text with spaces as long as it's the same color.)
 - `/spoofsecond <string2>` - Changes whatever string that is set as spooffirst to `<string2>`. (`<string2>` can have spaces)
 
-NOTE: THESE APPLY TO ANY (LITERALLY ANY) TEXT THAT APPEARS ON YOUR SCREEN (IT MAY MAKE YOUR CHAT HISTORY CONFUSING TO READ)
+NOTE: THESE APPLY TO ANY TEXT THAT APPEARS ON YOUR SCREEN (IT MAY MAKE YOUR CHAT HISTORY CONFUSING TO READ)
 
 ## Examples
  Paired with boomboompower's skinchanger you can fake just about anyone.
