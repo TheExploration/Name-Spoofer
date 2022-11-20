@@ -20,7 +20,7 @@ A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavi
 
 - `/spoof` - Resets everything back to normal
 - `/spoof <name>` - Changes any instance of your username to <name>. Basically Nickhider but you decide your name.
-- `/spoof <target> <name>` - Changes any instance of `<target>` to `<name>`. (<name> can have spaces. <target> cannot have spaces)
+- `/spoof <target> <name>` - Changes any instance of `<target>` to `<name>`. (`<name>` can have spaces. `<target>` cannot have spaces)
 - `/remove <target>` - Hides the string `<target>`. (Can have spaces)
 - `/spooffirst <target>` - Used with `/spoofsecond`. (Can have spaces as long as it's the same color.)
 - `/spoofsecond <target>` - Changes whatever string that is set as spooffirst to `<target>`. (Can have spaces)
