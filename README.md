@@ -70,4 +70,3 @@ NOTE: THESE APPLY TO ANY TEXT THAT APPEARS ON YOUR SCREEN (IT MAY MAKE YOUR CHAT
 ## Notes
 - May affect fps if there is a lot of text displayed (such as when you press tab in bedwars lobby one)
 - Cannot remove color codes as they are invisible and not shown on the screen (if it could it would be disallowed as it would be able to remove duels nametag obfuscation since im pretty sure it uses &k as the color code)
-- The release jar is very large because the entirety of Jackson is in there
