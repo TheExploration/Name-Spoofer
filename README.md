@@ -58,7 +58,6 @@ NOTE: THESE APPLY TO ANY TEXT THAT APPEARS ON YOUR SCREEN (Also only & color cod
 ![bedwars](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bedwar.png)
 
 ![owner](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/bridgeowner.png)
-![tablist](https://github.com/TheExploration/Name-Spoofer/blob/main/demo/tablistspoof.png)
 
 ## Features
 - Saves the names you spoof!!
