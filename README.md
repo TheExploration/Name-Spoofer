@@ -2,7 +2,7 @@
 
 For Forge 1.8.9 
 
-Change **ANY** text displayed on your screen visually. **Turn off "Optimized font renderer" in the performance tab if you are using Patcher Mod or it won't work.**
+Change **ANY** text displayed on your screen visually. **If using Patcher Mod, Turn off "Optimized font renderer" in the performance tab or it won't work.**
 
 *It does not actually change any strings and is client side (If you spoof a 1 character string to 5 character it will actually be 1 character, only it will appears as 5)
 
