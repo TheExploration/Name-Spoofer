@@ -2,6 +2,7 @@
 [![GitHub release](https://img.shields.io/github/release/TheExploration/Name-Spoofer.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/TheExploration/Name-Spoofer)
 ![GitHub all releases](https://img.shields.io/github/downloads/TheExploration/Name-Spoofer/total)
+![GitHub issues](https://img.shields.io/github/issues/TheExploration/name-spoofer)
 # Name-Spoofer
 
 For Forge 1.8.9 
